@@ -7,6 +7,8 @@ Concurrent Systems | Trading Engines | Full-stack
 
 I’m currently a penultimate-year Computer Science student at the University of Bristol
 
+When I’m away from the keyboard, I focus on strength training at the gym 🏋️‍♂️ and running to stay sharp 🏃‍♂️
+
 **✓ Technologies I've Worked With**
 
 [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,ts,nextjs,flutter,aws,supabase)](https://skillicons.dev)
@@ -14,7 +16,9 @@ I’m currently a penultimate-year Computer Science student at the University of
 
 **📫 How to reach me: andy.lee.madeinseoul@gmail.com**
 
-![Scanning animation](https://tenor.com/ko/view/scan-moto-terminator-terminator-salvation-gif-19867292)
+<p align="center">
+  <img src="images/scan-moto-terminator.gif" width="700" />
+</p>
 
 
 
