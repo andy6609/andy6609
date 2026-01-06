@@ -9,7 +9,7 @@ I’m currently a penultimate-year Computer Science student at the University of
 
 **✓ Technologies I've Worked With**
 
-[![My Skills](https://skillicons.dev/icons?i=c, c++, python, go, ts, nextjs, flutter, aws, supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,ts,nextjs,flutter,aws,supabase)](https://skillicons.dev)
 
 
 
