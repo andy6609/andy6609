@@ -14,6 +14,9 @@ I’m currently a penultimate-year Computer Science student at the University of
 
 **📫 How to reach me: andy.lee.madeinseoul@gmail.com**
 
+![Scanning animation](https://tenor.com/ko/view/scan-moto-terminator-terminator-salvation-gif-19867292)
+
+
 
 
 <!--
