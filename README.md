@@ -9,8 +9,8 @@ I’m currently a penultimate-year Computer Science student at the University of
 
 **✓ Technologies I've Worked With**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c, c++, python, go, ts, nextjs, flutter, aws, supabase)](https://skillicons.dev)
+
 
 
 I'm a performance-driven Backend Engineer based in London, U.K., specializing in:
