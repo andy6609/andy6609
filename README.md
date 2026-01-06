@@ -1,4 +1,22 @@
-## Hi there 👋
+
+Hi there! I'm Andy(Dongyun) Lee👋
+
+Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner
+
+💫 About Me
+
+I’m currently a penultimate-year Computer Science student at the University of Bristol
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+I'm a performance-driven Backend Engineer based in London, U.K., specializing in:
+
+Building high-throughput backend systems using Spring, Quarkus, Javalin, NestJS, and Gin
+Designing resilient, event-driven architectures
+Implementing CI/CD, automation, container orchestration, and infrastructure provisioning
+Crafting fast, responsive frontends (when needed) using Astro, NextJS, and Vue
+I enjoy solving distributed system challenges and working with cloud-native technologies that scale. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter
+
 
 <!--
 **andy6609/andy6609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
