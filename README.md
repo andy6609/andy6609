@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/scan-moto-terminator.gif" width="700" />
+</p>
+
+
 
 Hi there! I'm Andy(Dongyun) Lee👋
 
@@ -15,10 +20,6 @@ When I’m away from the keyboard, I focus on strength training at the gym 🏋�
 
 
 **📫 How to reach me: andy.lee.madeinseoul@gmail.com**
-
-<p align="center">
-  <img src="images/scan-moto-terminator.gif" width="700" />
-</p>
 
 
 
