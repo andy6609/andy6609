@@ -1,7 +1,7 @@
 
 Hi there! I'm Andy(Dongyun) Lee👋
 
-Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner
+Computer Science Student | Concurrent Systems & Trading Engines | Full-stack
 
 **💫 About Me**
 
