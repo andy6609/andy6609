@@ -4,19 +4,26 @@
 
 
 
-Hi there! I'm Andy(Dongyun) Lee👋
 
-Concurrent Systems | Trading Engines | Full-stack
+Hi there! I'm Andy (Dongyun) Lee 👋
+Concurrent Systems · Trading Engines · Full-Stack
 
-**💫 About Me**
+💫 About Me
+I'm a penultimate-year Computer Science student at the University of Bristol,
+passionate about building software that is both correct and fast.
 
-I’m currently a penultimate-year Computer Science student at the University of Bristol
+I enjoy digging into how systems behave under the hood — and I never trust
+assumptions until I've measured them myself.
 
-When I’m away from the keyboard, I focus on strength training at the gym 🏋️‍♂️ and running to stay sharp 🏃‍♂️
+When I'm not coding, I'm an active crypto trader, which keeps me closely
+connected to the financial world I love building for.
+
+Away from the keyboard: strength training 🏋️‍♂️ and running 🏃‍♂️
+
 
 **✓ Technologies I've Worked With**
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,ts,nextjs,flutter,aws,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,python,ts,nextjs,flutter,aws,supabase,docker,postgres,prisma,linux)](https://skillicons.dev)
 
 
 **📫 How to reach me: andy.lee.madeinseoul@gmail.com**
