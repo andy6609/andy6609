@@ -8,17 +8,23 @@
 Hi there! I'm Andy (Dongyun) Lee 👋
 Concurrent Systems · Trading Engines · Full-Stack
 
+
 💫 About Me
 I'm a penultimate-year Computer Science student at the University of Bristol,
 passionate about building software that is both correct and fast.
 
+
 I enjoy digging into how systems behave under the hood — and I never trust
 assumptions until I've measured them myself.
+
 
 When I'm not coding, I'm an active crypto trader, which keeps me closely
 connected to the financial world I love building for.
 
+
 Away from the keyboard: strength training 🏋️‍♂️ and running 🏃‍♂️
+
+
 
 
 **✓ Technologies I've Worked With**
