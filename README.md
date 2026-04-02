@@ -18,7 +18,7 @@ I enjoy digging into how systems behave under the hood — and I never trust
 assumptions until I've measured them myself.
 
 
-When I'm not coding, I'm an active crypto trader, which keeps me closely
+When I'm not coding, I'm an active nasdq trader, which keeps me closely
 connected to the financial world I love building for.
 
 
