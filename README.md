@@ -7,9 +7,5 @@
 
   <br/>
 
-  Find out about me on my [portfolio website](https://dongyunlee.vercel.app)!
-
-  <br/>
-
   <img src="https://komarev.com/ghpvc/?username=andy6609&label=PROFILE+VIEWS&color=808080&style=for-the-badge" />
 </div>
