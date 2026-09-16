@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=5EC9C9&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I+am+Andy+Lee!" />
-
-  <br/>
-
   <img src="assets/banner.svg" width="100%" />
 
   <br/><br/>
