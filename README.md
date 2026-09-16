@@ -7,5 +7,9 @@
 
   <br/>
 
+  <img src="assets/terminator.gif" width="360" />
+
+  <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=andy6609&label=PROFILE+VIEWS&color=808080&style=for-the-badge" />
 </div>
