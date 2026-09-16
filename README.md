@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://dongyunlee.vercep.app">
+  Hello I am Andy Lee!
+
+  <a href="https://dongyunlee.vercel.app">
     <img src="assets/banner.svg" width="100%" />
   </a>
 
