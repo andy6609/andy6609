@@ -723,6 +723,6 @@
   <circle cx="929.0" cy="203.0" r="2.19" fill="white" opacity="0.95"/>
   <circle cx="273.8" cy="423.7" r="1.29" fill="white" opacity="0.95"/>
 
-  <text x="600.0" y="180.0" text-anchor="middle" font-family="monospace" font-size="40" font-weight="bold" fill="#ffffff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="0s" fill="freeze"/>Hello, I am Andy Lee!</text><text x="600.0" y="260.0" text-anchor="middle" font-family="monospace" font-size="46" fill="#5ec9c9">dongyunlee.vercel.app</text>
+  <clipPath id="typeClip"><rect x="300" y="130" width="0" height="80"><animate attributeName="width" from="0" to="620" dur="2s" begin="0s" fill="freeze" calcMode="linear"/></rect></clipPath><g clip-path="url(#typeClip)"><text x="600.0" y="180.0" text-anchor="middle" font-family="monospace" font-size="40" font-weight="bold" fill="#ffffff">Hello, I am Andy Lee!</text></g><text x="600.0" y="260.0" text-anchor="middle" font-family="monospace" font-size="46" fill="#5ec9c9">dongyunlee.vercel.app</text>
   <text x="600.0" y="315.0" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#e8e8e8">Find out about me on my portfolio website!</text>
 </svg>
