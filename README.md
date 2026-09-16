@@ -3,7 +3,12 @@
 
   <br/><br/>
 
-  <img src="assets/terminator.gif" width="360" />
+  <table>
+    <tr>
+      <td><img src="assets/motorcycle.gif" width="360" /></td>
+      <td><img src="assets/terminator.gif" width="360" /></td>
+    </tr>
+  </table>
 
   <br/><br/>
 
