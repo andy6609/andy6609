@@ -1,7 +1,9 @@
 <div align="center">
-  <a href="https://dongyunlee.vercel.app">
-    <img src="assets/banner.svg" width="100%" />
-  </a>
+  <img src="assets/banner.svg" width="100%" />
+
+  <br/><br/>
+
+  Find out about me on my [portfolio website](https://dongyunlee.vercel.app)!
 
   <br/><br/>
 
